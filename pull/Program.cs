@@ -6,7 +6,7 @@ namespace pull
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello india!");
+            Console.WriteLine("Hello People!");
         }
     }
 }
