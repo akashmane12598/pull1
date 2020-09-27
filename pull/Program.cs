@@ -11,6 +11,7 @@ namespace pull
             Console.WriteLine("This is the slave remote part");
             Console.WriteLine("Hello India");
             Console.WriteLine("Hitman");
+            Console.WriteLine("Virat Kohli");
         }
     }
 }
