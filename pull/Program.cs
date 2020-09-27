@@ -9,7 +9,8 @@ namespace pull
             Console.WriteLine("Hello People!");
             Console.WriteLine("Google");
             Console.WriteLine("Microsoft");
-            Console.WriteLine("This is the slave local part");
+            Console.WriteLine("This is the slave remote part");
+            Console.WriteLine("Hello Moto");
         }
     }
 }
